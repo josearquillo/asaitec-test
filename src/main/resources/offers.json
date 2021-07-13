@@ -1,0 +1,27 @@
+{
+	"offers": [{
+			"itemID": "1",
+		    "description" : "Get a free Orange for every 2 Pears you buy",
+		    "offerType" : "1", 
+			"numItemsPurchased": "2",
+		    "numItemsDiscount" : "1",
+		    "itemDisconutedID" : "3"
+		},
+		{
+			"itemID": "2",
+		    "description": "Buy 3 Apples and pay 2",
+		    "offerType" : "1", 
+			"numItemsPurchased": "3",
+		    "numItemsDiscount" : "1",
+		    "itemDisconutedID" : "2"
+		},
+		{
+			"itemID": "1",
+		    "description" : "For every 4 € spent on Pears, we will deduct one euro from your final invoice",
+		    "offerType" : "2", 
+		  	"moneySpent" : "4",
+		    "totalDiscount" : "1"
+
+		}
+	]
+}

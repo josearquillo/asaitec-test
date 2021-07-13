@@ -1,0 +1,18 @@
+{
+	"items": [{
+			"itemID": "1",
+			"name": "Pear",
+			"price": "0.75"
+		},
+		{
+			"itemID": "2",
+			"name": "Apple",
+			"price": "0.9"
+		},
+		{
+			"itemID": "3",
+			"name": "Orange",
+			"price": "1"
+		}
+	]
+}
